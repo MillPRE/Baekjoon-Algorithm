@@ -21,4 +21,4 @@
 | 15 | [1699](https://www.acmicpc.net/problem/1699)   | 제곱수의 합                                                                                    | S2  |
 | 16 | [2133](https://www.acmicpc.net/problem/2133)   | 타일 채우기                                                                                    | G4  |
 | 17 | [9461](https://www.acmicpc.net/problem/9461)   | 파도반 수열                                                                                    | S3  |
-| 18 | [2225](https://www.acmicpc.net/problem/2225)   | [합분해](https://github.com/MillPRE/Baekjoon-Algorithm/tree/master/dynamic_programming/2225) | G5  |
+| 18 | [2225](https://www.acmicpc.net/problem/2225)   | [합분해](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/dynamic_programming/9461/main.py) | G5  |
