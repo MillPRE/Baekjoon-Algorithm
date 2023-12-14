@@ -1,10 +1,10 @@
 # 동적 계획법 <Dynamic Programming>
-동적 계획법 백준, 프로그래머스 문제 풀이 기록
+동적 계획법 백준 문제 풀이 기록
 ## 문제 테이블
 | ID | 문제 번호                                          | 문제 제목                                                                                                | 난이도 |
 |----|------------------------------------------------|------------------------------------------------------------------------------------------------------|-----|
 | 00 | [1463](https://www.acmicpc.net/problem/1463)   | [1로 만들기](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/dynamic_programming/1463/main.py) | S3  |
-| 01 | [11726](https://www.acmicpc.net/problem/11726) | 2×n 타일링                                                                                              | S3  |
+| 01 | [11726](https://www.acmicpc.net/problem/11726) | [2×n 타일링](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/dynamic_programming/11726/main.py) | S3  |
 | 02 | [11727](https://www.acmicpc.net/problem/11727) | 2×n 타일링 2                                                                                            | S3  |
 | 03 | [9095](https://www.acmicpc.net/problem/9095)   | 1, 2, 3 더하기                                                                                          | S3  |
 | 04 | [10844](https://www.acmicpc.net/problem/10844) | 쉬운 계단 수                                                                                              | S1  |
@@ -22,3 +22,5 @@
 | 16 | [2133](https://www.acmicpc.net/problem/2133)   | 타일 채우기                                                                                               | G4  |
 | 17 | [9461](https://www.acmicpc.net/problem/9461)   | 파도반 수열                                                                                               | S3  |
 | 18 | [2225](https://www.acmicpc.net/problem/2225)   | [합분해](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/dynamic_programming/9461/main.py)    | G5  |
+| 19 | [2011](https://www.acmicpc.net/problem/2011)   | 암호코드| G5  |
+| 20 | [11052](https://www.acmicpc.net/problem/11052)   | 카드 구매하기| S1  |
