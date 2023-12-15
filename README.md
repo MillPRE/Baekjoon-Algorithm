@@ -4,4 +4,5 @@
 | ID | 유형                             | 문제 목록                                                                               |
 |----|--------------------------------|-------------------------------------------------------------------------------------|
 | 00 | 동적 계획법 Dynamic Programming(DP) | [링크](https://github.com/MillPRE/Baekjoon-Algorithm/tree/master/dynamic_programming) |
-| 01 | 자료 구조 Data Structure           | [링크](https://github.com/MillPRE/Baekjoon-Algorithm/tree/master/data_structure) |
+| 01 | 자료 구조 Data Structure           | [링크](https://github.com/MillPRE/Baekjoon-Algorithm/tree/master/data_structure)      |
+| 02 | 문자열 String                     | [링크](https://github.com/MillPRE/Baekjoon-Algorithm/tree/master/string)              |
