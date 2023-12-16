@@ -14,4 +14,7 @@
 | 08 | [11652](https://www.acmicpc.net/problem/11652) | [카드](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/data_structure/11652/main.py)       | S4  |
 | 09 | [11004](https://www.acmicpc.net/problem/11004) | [K번째 수](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/data_structure/11004/main.py)    | S5  |
 | 10 | [10828](https://www.acmicpc.net/problem/10828) | [스택](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/data_structure/10828/main.py)       | S4  |
-| 11 | [9012](https://www.acmicpc.net/problem/9012)  | [괄호](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/data_structure/9012/main.py)        | S4  |
+| 11 | [9012](https://www.acmicpc.net/problem/9012)   | [괄호](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/data_structure/9012/main.py)        | S4  |
+| 11 | [10866](https://www.acmicpc.net/problem/10866)  | [덱](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/data_structure/10866/main.py)        | S4  |
+
+
