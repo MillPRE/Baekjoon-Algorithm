@@ -11,4 +11,6 @@
 | 05 | [2217](https://www.acmicpc.net/problem/2217)   | [로프](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/greedy/2217/main.py)       | S4  |
 | 06 | [1789](https://www.acmicpc.net/problem/1789)   | [수들의 합](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/greedy/1789/main.py)    | S5  | ✴️ |
 | 07 | [16471](https://www.acmicpc.net/problem/16471) | [작은 수 내기](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/greedy/16471/main.py) | S4  | ✴️ |
-| 07 | [10162](https://www.acmicpc.net/problem/10162) | [전자레인지](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/greedy/10162/main.py)   | B3  |    |  
+| 08 | [10162](https://www.acmicpc.net/problem/10162) | [전자레인지](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/greedy/10162/main.py)   | B3  |    |
+| 09 | [2875](https://www.acmicpc.net/problem/2875)   | [대회 or 인턴](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/greedy/2875/main.py) | B3  |    |
+| 10 | [10610](https://www.acmicpc.net/problem/10610)  | [30](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/greedy/10610/main.py)       | S5  |    |  
