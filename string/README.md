@@ -9,5 +9,8 @@
 | 03 | [11655](https://www.acmicpc.net/problem/11655) | [ROT13](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/string/11655/main.py)  | B1  |
 | 04 | [10824](https://www.acmicpc.net/problem/10824) | [네 수](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/string/10824/main.py)    | B3  |
 | 05 | [11656](https://www.acmicpc.net/problem/11656) | [접미사 배열](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/string/11656/main.py) | S4  |
-| 06 | [1406](https://www.acmicpc.net/problem/1406)  | [에디터](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/string/1406/main.py)     | S2  |
+| 06 | [1406](https://www.acmicpc.net/problem/1406)   | [에디터](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/string/1406/main.py)     | S2  |
+| 07 | [1157](https://www.acmicpc.net/problem/1157)   | [단어 공부](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/string/1157/main.py)   | B1  |
+| 08 | [1158](https://www.acmicpc.net/problem/1158)   | [요세푸스 문제](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/string/1158/main.py) | S4  |
+
 
