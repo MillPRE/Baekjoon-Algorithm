@@ -9,4 +9,7 @@
 | 03 | [4659](https://www.acmicpc.net/problem/4659)   | [비밀번호 발음하기](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/implement/4659/main.py)  | S5  |
 | 04 | [10431](https://www.acmicpc.net/problem/10431) | [줄세우기](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/implement/10431/main.py)      | S5  |
 | 05 | [20125](https://www.acmicpc.net/problem/20125) | [쿠키의 신체 측정](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/implement/20125/main.py) | S4  |
-| 06 | [1205](https://www.acmicpc.net/problem/1205)  | [등수 구하기](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/implement/1205/main.py)     | S4  |
+| 06 | [1205](https://www.acmicpc.net/problem/1205)   | [등수 구하기](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/implement/1205/main.py)     | S4  |
+| 07 | [1244](https://www.acmicpc.net/problem/1244)   | [스위치 켜고 끄기](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/implement/1244/main.py)  | S4  |
+| 08 | [9017](https://www.acmicpc.net/problem/9017)   | [크로스 컨트리](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/implement/9017/main.py)    | S3  |
+| 09 | [17266](https://www.acmicpc.net/problem/17266)  | [어두운 굴다리](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/implement/17266/main.py)    | S4  |
