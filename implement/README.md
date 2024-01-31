@@ -12,4 +12,5 @@
 | 06 | [1205](https://www.acmicpc.net/problem/1205)   | [등수 구하기](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/implement/1205/main.py)     | S4  |
 | 07 | [1244](https://www.acmicpc.net/problem/1244)   | [스위치 켜고 끄기](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/implement/1244/main.py)  | S4  |
 | 08 | [9017](https://www.acmicpc.net/problem/9017)   | [크로스 컨트리](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/implement/9017/main.py)    | S3  |
-| 09 | [17266](https://www.acmicpc.net/problem/17266)  | [어두운 굴다리](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/implement/17266/main.py)    | S4  |
+| 09 | [17266](https://www.acmicpc.net/problem/17266) | [어두운 굴다리](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/implement/17266/main.py)   | S4  |
+| 10 | [21921](https://www.acmicpc.net/problem/21921) | [블로그](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/implement/21921/main.py)       | S3  |
