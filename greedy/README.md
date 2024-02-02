@@ -15,4 +15,5 @@
 | 09 | [2875](https://www.acmicpc.net/problem/2875)   | [대회 or 인턴](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/greedy/2875/main.py) | B3  |   |
 | 10 | [10610](https://www.acmicpc.net/problem/10610) | [30](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/greedy/10610/main.py)      | S5  |   |
 | 11 | [1783](https://www.acmicpc.net/problem/1783)   | [병든 나이트](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/greedy/1783/main.py)   | S3  | ✴️ |
-| 12 | [13305](https://www.acmicpc.net/problem/13305)  | [주유소](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/greedy/13305/main.py)      | S3  | ️ |  
+| 12 | [13305](https://www.acmicpc.net/problem/13305) | [주유소](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/greedy/13305/main.py)     | S3  | ️ |
+| 13 | [19941](https://www.acmicpc.net/problem/19941) | [햄버거 분배](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/greedy/19941/main.py)  | S3  | ️ |  
