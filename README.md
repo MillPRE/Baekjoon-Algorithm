@@ -12,5 +12,4 @@
 | 06 | 구현 Implement                   | [링크](https://github.com/MillPRE/Baekjoon-Algorithm/tree/master/implement)           |
 | 07 | 정렬 Sorting                     | [링크](https://github.com/MillPRE/Baekjoon-Algorithm/tree/master/sorting)             |
 | 08 | 그래프 Graph                      | [링크](https://github.com/MillPRE/Baekjoon-Algorithm/tree/master/graph)               |
-
-
+| 09 | 이진 탐색 Binary Search            | [링크](https://github.com/MillPRE/Baekjoon-Algorithm/tree/master/binary_search)       |
