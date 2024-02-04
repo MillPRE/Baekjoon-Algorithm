@@ -10,3 +10,4 @@
 | 04 | [5576](https://www.acmicpc.net/problem/5576)   | [콘테스트](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/sorting/5576/main.py)         | B2  |
 | 05 | [10867](https://www.acmicpc.net/problem/10867) | [중복 빼고 정렬하기](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/sorting/10867/main.py)  | S5  |
 | 06 | [20920](https://www.acmicpc.net/problem/20920) | [영단어 암기는 괴로워](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/sorting/20920/main.py) | S3  |
+| 07 | [3758](https://www.acmicpc.net/problem/3758)  | [KCPC](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/sorting/3758/main.py)        | S2  |
