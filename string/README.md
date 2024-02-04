@@ -1,8 +1,8 @@
 # 문자열 <String>
 문자열 백준 문제 풀이 기록
 ## 문제 테이블
-| ID | 문제 번호                                          | 문제 제목                                                                                    | 난이도 |
-|----|------------------------------------------------|------------------------------------------------------------------------------------------|-----|
+| ID | 문제 번호                                          | 문제 제목                                                                                    | 난이도 | 다시 풀기 |
+|----|------------------------------------------------|------------------------------------------------------------------------------------------|-----|----|
 | 00 | [10808](https://www.acmicpc.net/problem/10808) | [알파벳 개수](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/string/10808/main.py) | B4  |
 | 01 | [10809](https://www.acmicpc.net/problem/10809) | [알파벳 찾기](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/string/10809/main.py) | B2  |
 | 02 | [10820](https://www.acmicpc.net/problem/10820) | [문자열 분석](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/string/10820/main.py) | B2  |
@@ -12,5 +12,7 @@
 | 06 | [1406](https://www.acmicpc.net/problem/1406)   | [에디터](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/string/1406/main.py)     | S2  |
 | 07 | [1157](https://www.acmicpc.net/problem/1157)   | [단어 공부](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/string/1157/main.py)   | B1  |
 | 08 | [1158](https://www.acmicpc.net/problem/1158)   | [요세푸스 문제](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/string/1158/main.py) | S4  |
+| 09 | [2607](https://www.acmicpc.net/problem/2607)   | [비슷한 단어](https://github.com/MillPRE/Baekjoon-Algorithm/blob/master/string/2607/main.py)  | S2  | ✴️ |
+
 
 
